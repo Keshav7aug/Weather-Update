@@ -1,0 +1,16 @@
+The API i am using limits the request to 1000/month, I have already used 
+71% (712) requests, at the time of submitting this project.
+data is updated every second
+modules required:
+    openpyxl
+        pip install openpyxl
+    requests
+        pip install requests
+    os
+        pip install os-sys
+    tkinter 
+        (optional -> if present, graphical window for update will be shown)
+        pip install tkintertable
+Closing Graphical Window will not stop updation of temperature in xlsx file.
+To stop updating temperature one needs to close the Program (Ctrl+C in cmd/Terminal)
+
